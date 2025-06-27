@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aniket<br><br>🎓 BCA Student | 💻 Future Full Stack Developer | 📽️ Anime & Tech Content Creator<br><br> 🔭 I’m currently working on<br>       Project Name:  (Anime Website)*  <br><br> 👯 I’m looking to collaborate on<br>       Excel_Analytics_Platform  <br>🔗 [GitHub Repository](https://github.com/kyaminipriya9/Excel_Analytics_Platform.git)<br><br> 🌱 I’m currently learning<br>       Node.js  <br>       Express.js<br><br> 💬 Ask me about<br>       React.js  <br>      JavaScript<br><br>📫 How to reach me<br> ✉️ Email: aniket01079@gmail.com<br><br> 👨‍💻 All of my projects are available at<br> 🌐 [GitHub Portfolio](https://github.com/Aniket2301079)<br><br><br><br><br>
-
+👋 Hi, I'm Aniket<br><br>🎓 BCA Student | 💻 Future Full Stack Developer | 📽️ Anime & Tech Content Creator<br><br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket2301079) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aniket01079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniket01079@gmail.com) 
