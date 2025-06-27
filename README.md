@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aniket<br><br>🎓 BCA Student | 💻 Future Full Stack Developer | 📽️ Anime & Tech Content Creator<br><br> 
+👋 Hi, I'm Aniket<br><br>🎓 BCA Student | 💻 Future Full Stack Developer 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket2301079) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aniket01079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniket01079@gmail.com) 
